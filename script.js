@@ -133,7 +133,7 @@ function generatePassword() {
     );
   }
 
-  // Assign an action to the password parameters NEED TO FIX THIS
+  // Assign an action to the password parameters
   var passwordCharacters = [];
 
   if (confirmSpecialCharacter) {
