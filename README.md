@@ -9,4 +9,4 @@ https://anakayy.github.io/PasswordGenerator/
 https://github.com/anakayy/PasswordGenerator
 
 Screenshot:
-<img src ="/img.screenshotPW.png"/>
+![screenshotPW](https://user-images.githubusercontent.com/92833780/158034126-2ff8ab88-5172-4e55-81be-419563ffe6b5.png)
