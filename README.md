@@ -6,7 +6,8 @@ When the user clicks the button "Generate Password" they are first prompted for 
 
 To get this project up and running, you can follow the deployment link:
 https://anakayy.github.io/PasswordGenerator/
+or
 https://github.com/anakayy/PasswordGenerator
 
-Screenshot:
+
 ![screenshotPW](https://user-images.githubusercontent.com/92833780/158034126-2ff8ab88-5172-4e55-81be-419563ffe6b5.png)
